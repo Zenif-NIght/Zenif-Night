@@ -3,7 +3,9 @@
 Learn more on my website: [Zenif-NIght.github.io](http://Zenif-NIght.github.io)
 ## Roboticist 
 I focus on intelligent robotics, and my current research aims to improve the robustness and dependability of planning and adaptability for applied robotic systems.
-I'm fascinated by the possibilities of Intelligent Robotics. Robotics has been a hobby of mine even before I participated in the FIRST Robotics Challenge in high school. From my industry experience, I am interested in the need for more complex decision and reasoning in mechatronic systems. Rapid innovations in GPU technology and machine learning have the potential to provide quicker flexibility, more competent decision making, and real-time scene analysis. I aim to understand and use this advancement in computer technology to create new and improved algorithms for robot intelligence.
+I specialize in the field of intelligent robotics, and my current research focuses on enhancing planning and adaptability for practical robotic systems. The potential of neural symbolic AI’s in robotics intrigues me.  Ever sense I was a kid I had passion for robotics,  I fell in love when I competed through out middle and High school in the FIRST Robotics Challenges. I am interested in the need for more complicated decision-making and reasoning in mechatronic systems from my background as an automation systems engineer. I utilize improvements in models and symbolic logic for generalization to develop creative robot intelligence systems.
+ 
+
 
 ## Recent Publications
 _Improving Methods for Multi-Terrain Classification Beyond Visual Perception_
