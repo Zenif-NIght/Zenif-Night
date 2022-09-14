@@ -8,7 +8,7 @@ I specialize in the field of intelligent robotics, and my current research focus
 
 
 ## Recent Publications
-_Improving Methods for Multi-Terrain Classification Beyond Visual Perception_
+[_Improving Methods for Multi-Terrain Classification Beyond Visual Perception_](https://ieeexplore.ieee.org/abstract/document/9699886)
 
 ## 
 <!--Credit: https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
