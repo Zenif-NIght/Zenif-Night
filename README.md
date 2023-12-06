@@ -2,7 +2,7 @@
 # Christopher Allred
 Learn more on my website: [Zenif-NIght.github.io](http://Zenif-NIght.github.io)
 ## Roboticist 
-I specialize in the field of intelligent robotics, and my current research focuses on enhancing planning and adaptability for practical robotic systems. The potential of neural symbolic AI’s in robotics intrigues me.  Ever sense I was a kid I had passion for robotics,  I fell in love when I competed through out middle and High school in the FIRST Robotics Challenges. I am interested in the need for more complicated decision-making and reasoning in mechatronic systems from my background as an automation systems engineer. I utilize improvements in models and symbolic logic for generalization to develop creative robot intelligence systems.
+I specialize in the field of intelligent robotics, and my current research focuses on enhancing planning and adaptability for practical robotic systems. The potential of neural symbolic AI’s in robotics intrigues me.  Ever since I was a kid I had a passion for robotics,  I fell in love when I competed throughout middle and High school in the FIRST Robotics Challenges. I am interested in the need for more complicated decision-making and reasoning in mechatronic systems from my background as an automation systems engineer. I utilize improvements in models and symbolic logic for generalization to develop creative robot intelligence systems.
  
 
 
