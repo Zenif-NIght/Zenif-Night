@@ -16,9 +16,9 @@ Hi, I am Christopher, a PhD student robotics researcher at USU. My expertise in 
 
 [_Improving Methods for Multi-Terrain Classification Beyond Visual Perception_](https://ieeexplore.ieee.org/abstract/document/9699886)
 
+
 ## 
 <!--Credit: https://github.com/anuraghazra/github-readme-stats#github-stats-card -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zenif-Night&show_icons=true&theme=merko&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenif-Night&layout=compact&theme=merko)](https://github.com/Zenif-Night/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
